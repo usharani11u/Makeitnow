@@ -1,7 +1,7 @@
 // ─── Sample Inputs ────────────────────────────────────────────────
 const SAMPLES = {
   1: `Vivek spoke with a potential client about automating their sales follow-ups. Nandini needs to prepare a list of 20 similar companies by Friday. Gagan should test whether meeting notes can be converted into Linear tasks. Suhas will prepare a simple workflow diagram. The client asked for a proposal next week. Vivek needs to decide pricing before the next call.`,
-  2: `Usha to review the onboarding deck and share feedback by Wednesday. Manoj should set up a staging environment before Thursday's demo. The product team needs to finalise the feature list for Q3 by end of this month. Bannu will reach out to three beta users for feedback. Renuka and Ashwini should sync on the API integration this week. No decision yet on the pricing page needs further discussion. Everyone should read the competitor analysis doc before Monday.`
+  2: `Usha to review the onboarding deck and share feedback by Wednesday. Sarada should set up a staging environment before Thursday's demo. The product team needs to finalise the feature list for Q3 by end of this month. Bannu will reach out to three beta users for feedback. Renuka and Ashwini should sync on the API integration this week. No decision yet on the pricing page needs further discussion. Everyone should read the competitor analysis doc before Monday.`
 };
 
 const KNOWN_NAMES = [
