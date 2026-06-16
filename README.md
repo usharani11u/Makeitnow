@@ -1,0 +1,1 @@
+**MakeItNow** — A browser-based meeting notes parser that instantly extracts action items from raw text. Auto-detects task owner, due date & priority. Features editable table with pagination, CSV export, priority distribution bar, plain text export & filter by due date. No AI, no backend — runs entirely in the browser.
